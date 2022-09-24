@@ -1,6 +1,6 @@
 # Android Project 2 - *Wishlist*
 
-Submitted by: **Richard**
+Submitted by: **Richard Kang**
 
 **Wishlist** is a wishlist app that helps the user keep track of what they want to buy.
 
@@ -33,7 +33,7 @@ GIF created with recordit
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was stuck for a long time trying to figure out why my app was crashing.. But it turns out I forgot edit text data isn't a string
 
 ## License
 
